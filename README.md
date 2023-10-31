@@ -1,1 +1,1 @@
-# Kepler-62
+This is a Python script that uses the Web VPython 3.2 library to create a simplified visual representation of a star (Kepler_62) and its orbiting planets. The script uses scaled values for the radii of the celestial bodies and assumes that the planets move in perfect circles (and with zero inclination angles) around the star.
